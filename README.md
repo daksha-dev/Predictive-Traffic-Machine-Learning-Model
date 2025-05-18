@@ -48,4 +48,4 @@ Both models perform well, with SVR showing slightly better accuracy. The results
 
 ## 📚 References
 
-> Dataset source and methodology based on publicly available traffic data and standard machine learning practices.
+https://github.com/atharva-hukkeri/Traffic-Prediction-using-Machine-Learning
